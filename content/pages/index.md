@@ -76,7 +76,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Feature Item Three
-        tagline: This is the tagline
+        tagline: ''
         subtitle: Tēnā koutou katoa.
         text: >
           Ko Aerana me Ingarangi te whakapaparanga mai. Engari, Ko Whitby's toku
