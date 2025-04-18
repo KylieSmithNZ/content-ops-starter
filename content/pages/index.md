@@ -14,7 +14,7 @@ sections:
     type: DividerSection
   - type: GenericSection
     title:
-      text: Kylie R Smith
+      text: 'Kylie R Smith, PhD'
       color: text-dark
       styles:
         self:
