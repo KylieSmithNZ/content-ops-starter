@@ -75,7 +75,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Three
+        title: ''
         tagline: ''
         subtitle: Tēnā koutou katoa.
         text: >
