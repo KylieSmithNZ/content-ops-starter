@@ -22,16 +22,14 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >+
+      <div style="text-align: left">Kylie Smith is a researcher and educator
+      with experience teaching in primary, secondary and tertiary levels. Her
+      research interests lie in democratic education, democratic schooling
+      systems, critical pedagogies, student voice, and self-directed learning.
+      Her PhD focused on the positive impacts of student participation in
+      secondary school systems.
 
-      Kylie Smith is a researcher and educator with experience teaching in
-      primary, secondary and tertiary levels. Her research interests lie in
-      democratic education, democratic schooling systems, critical pedagogies,
-      student voice, and self-directed learning. Her PhD focused on the positive
-      impacts of student participation in secondary school systems.
-
-      E-mail: kylie.hitchcock\@gmail.com
-
-      ORCID ID 0000-0002-3781-6367
+      </div>
 
     actions: []
     media:
