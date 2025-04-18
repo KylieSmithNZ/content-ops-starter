@@ -24,7 +24,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: >+
           Kylie Smith is a researcher and educator with experience teaching in
