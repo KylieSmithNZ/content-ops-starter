@@ -29,36 +29,6 @@
             "type": "Link"
         },
         {
-            "label": "Research & Writing",
-            "altText": "Dropdown",
-            "links": [
-                {
-                    "type": "Link",
-                    "label": "PhD Thesis - Democracy, Freedom & School: Realigning Power in Aotearoa NZ's Secondary Schools",
-                    "altText": "",
-                    "url": "/",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                },
-                {
-                    "type": "Link",
-                    "label": "Practicing Democracy from Childhood: Democratic Praxis in Te Ao Māori",
-                    "altText": "",
-                    "url": "/https://www.berghahnjournals.com/view/journals/democratic-theory/8/2/dt080202.pdf",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                }
-            ],
-            "labelStyle": "secondary",
-            "type": "SubNav"
-        },
-        {
             "type": "Link",
             "label": "Research & Writing",
             "altText": "",
