@@ -21,11 +21,18 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+      Kylie Smith is a researcher and educator with experience teaching in
+      primary, secondary and tertiary levels. Her research interests lie in
+      democratic education, democratic schooling systems, critical pedagogies,
+      student voice, and self-directed learning. Her PhD focused on the positive
+      impacts of student participation in secondary school systems.
+
+      E-mail: kylie.hitchcock\@gmail.com
+
+      ORCID ID 0000-0002-3781-6367
+
     actions: []
     media:
       title: Title of the video
