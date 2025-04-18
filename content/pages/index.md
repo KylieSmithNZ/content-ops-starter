@@ -26,14 +26,7 @@ sections:
         title: ''
         tagline: ''
         subtitle: ''
-        text: >+
-          Kylie Smith is a researcher and educator with experience teaching in
-          primary, secondary and tertiary levels. Her research interests lie in
-          democratic education, democratic schooling systems, critical
-          pedagogies, student voice, and self-directed learning. Her PhD focused
-          on the positive impacts of student participation in secondary school
-          systems.
-
+        text: ''
         image:
           type: ImageBlock
           url: /images/Kylie.jpg
