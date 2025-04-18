@@ -79,9 +79,12 @@ sections:
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >
-          Tēnā koutou katoa. Ko Aerana me Ingarangi te whakapaparanga mai.
-          Engari, Ko Whitby's toku waka. Ko Tāmaki Makauraui te whenua tupu. Nō
-          Te Waipounamu au. Ko Takahiwai te kāinga ināianei. Tēnā tātou katoa
+          Ko Aerana me Ingarangi te whakapaparanga mai. Engari, Ko Whitby's toku
+          waka. Ko Tāmaki Makauraui te whenua tupu. Nō Te Waipounamu au. Ko
+          Takahiwai te kāinga ināianei. 
+
+
+          Tēnā tātou katoa
         image:
           type: ImageBlock
           url: /images/468525589_10162581618849114_2738407091006045883_n.jpg
