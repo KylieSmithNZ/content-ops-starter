@@ -125,7 +125,7 @@ sections:
       text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: Use this form to contact me
+    subtitle: You can contact me directly through this form
     text: |+
       <div style="text-align: left">ORCID ID 0000-0002-3781-6367</div>
 
