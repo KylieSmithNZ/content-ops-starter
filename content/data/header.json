@@ -12,12 +12,15 @@
     },
     "primaryLinks": [
         {
+            "type": "Link",
             "label": "About",
-            "url": "/pricing",
+            "altText": "",
+            "url": "/About",
+            "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
+            "style": "primary",
+            "elementId": ""
         },
         {
             "label": "Blog",
@@ -30,33 +33,11 @@
         },
         {
             "label": "Research & Writing",
-            "altText": "Dropdown",
-            "links": [
-                {
-                    "type": "Link",
-                    "label": "PhD Thesis - Democracy, Freedom & School: Realigning Power in Aotearoa NZ's Secondary Schools",
-                    "altText": "",
-                    "url": "/",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                },
-                {
-                    "type": "Link",
-                    "label": "Practicing Democracy from Childhood: Democratic Praxis in Te Ao Māori",
-                    "altText": "",
-                    "url": "/",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                }
-            ],
-            "labelStyle": "secondary",
-            "type": "SubNav"
+            "url": "/Research.Writing",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         }
     ],
     "secondaryLinks": [],
