@@ -75,11 +75,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
-    text: |
-      E-mail: <kylie.hitchcock@gmail.com>
+    text: |+
+      <div style="text-align: left">ORCID ID 0000-0002-3781-6367</div>
 
-
-      ORCID ID 0000-0002-3781-6367
     media:
       fields:
         - name: name
