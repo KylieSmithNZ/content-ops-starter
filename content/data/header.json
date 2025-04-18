@@ -32,16 +32,7 @@
         {
             "label": "Research & Writing",
             "altText": "Dropdown",
-            "links": [
-                {
-                    "label": "PhD Thesis",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                }
-            ],
+            "links": [],
             "labelStyle": "secondary",
             "type": "SubNav"
         }
