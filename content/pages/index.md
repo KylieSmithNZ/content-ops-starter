@@ -49,8 +49,14 @@ sections:
         title: Feature Item Two
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: >+
+          Kylie Smith is a researcher and educator with experience teaching in
+          primary, secondary and tertiary levels. Her research interests lie in
+          democratic education, democratic schooling systems, critical
+          pedagogies, student voice, and self-directed learning. Her PhD focused
+          on the positive impacts of student participation in secondary school
+          systems.
+
         image:
           type: ImageBlock
           altText: Placeholder image
