@@ -14,7 +14,7 @@ sections:
     type: DividerSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Kylie R Smith
       color: text-dark
       styles:
         self:
