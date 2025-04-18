@@ -25,7 +25,7 @@ sections:
       - type: FeaturedItem
         title: ''
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >+
           Kylie Smith is a researcher and educator with experience teaching in
           primary, secondary and tertiary levels. Her research interests lie in
