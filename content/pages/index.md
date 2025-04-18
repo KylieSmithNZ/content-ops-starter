@@ -20,7 +20,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: Researcher & Educator
     items:
       - type: FeaturedItem
         title: ''
