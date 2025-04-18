@@ -23,7 +23,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: Kylie R Smith
+        title: 'Kylie R Smith, PhD'
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >+
