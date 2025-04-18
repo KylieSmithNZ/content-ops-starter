@@ -15,7 +15,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: 'KyKylie R Smith, PhD'
+      text: 'Kylie R Smith, PhD'
       color: text-primary
       styles:
         self:
