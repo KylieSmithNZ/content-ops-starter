@@ -46,7 +46,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Ko wai au?
+        title: Ko wai ia?
         tagline: ''
         subtitle: ''
         text: >+
