@@ -75,15 +75,11 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
-    text: |+
+    text: |
       E-mail: <kylie.hitchcock@gmail.com>
+
+
       ORCID ID 0000-0002-3781-6367
-
-
-
-
-
-
     media:
       fields:
         - name: name
