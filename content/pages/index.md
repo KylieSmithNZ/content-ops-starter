@@ -47,7 +47,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Ko wai au?
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: >+
           Kylie Smith is a researcher and educator with experience teaching in
