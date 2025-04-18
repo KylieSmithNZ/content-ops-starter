@@ -84,6 +84,13 @@ sections:
       styles:
         self:
           borderRadius: medium
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
   - title: Divider
     colors: bg-neutral-fg-dark
     styles:
