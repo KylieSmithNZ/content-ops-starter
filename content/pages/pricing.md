@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Research & Writing
 slug: pricing
 sections:
   - title:
