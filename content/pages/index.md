@@ -79,7 +79,13 @@ sections:
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+          Tēnā koutou katoa
+          Ko Aerana me Ingarangi te whakapaparanga mai (engari)
+          Ko Waitohi te whenua tupu
+          Nō Tāmaki Makaurau au
+          Ko Takahiwai te kāinga ināianei
+
+          Tēnā tātou katoa
         image:
           type: ImageBlock
           url: /images/468525589_10162581618849114_2738407091006045883_n.jpg
