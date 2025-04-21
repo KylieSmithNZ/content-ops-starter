@@ -78,7 +78,6 @@ sections:
           accusantium doloremque.
         features:
           - Feature one
-          - Feature four
         image:
           type: ImageBlock
           url: /images/Web.PNG
