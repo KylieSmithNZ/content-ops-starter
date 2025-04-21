@@ -17,7 +17,7 @@ sections:
           Practicing Democracy from
           Childhood: Democratic
           Praxis in Te Ao Māori
-        price: Free
+        price: ''
         details: ''
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
