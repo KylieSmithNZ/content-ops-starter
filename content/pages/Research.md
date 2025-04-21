@@ -72,7 +72,7 @@ sections:
           Democracy, Freedom, and School: Realiging Power in Aotearoa New
           Zealand's Secondary Schools
         price: ''
-        details: per month
+        details: 'Kylie Smith, 2023'
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
