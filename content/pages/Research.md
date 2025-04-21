@@ -48,7 +48,17 @@ sections:
           type: ImageBlock
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
-        actions: []
+        actions:
+          - type: Link
+            label: See Tutorials
+            altText: ''
+            url: >-
+              /https://www.berghahnjournals.com/view/journals/democratic-theory/8/2/dt080202.xml
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-neutral-fg-dark
         styles:
           self:
