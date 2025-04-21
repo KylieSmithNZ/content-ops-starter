@@ -46,7 +46,7 @@ sections:
             hui, indigenous democratic processes, Māori
         image:
           type: ImageBlock
-          url: /images/1705376966078.jpg
+          url: /images/coverimage.webp
           altText: Pricing plan 1
         actions:
           - type: Link
