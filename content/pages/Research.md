@@ -18,7 +18,7 @@ sections:
           Childhood: Democratic
           Praxis in Te Ao Māori
         price: Free
-        details: No credit card required
+        details: ''
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
