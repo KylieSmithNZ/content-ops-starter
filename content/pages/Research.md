@@ -123,7 +123,7 @@ sections:
           forward-thinking approach based on democratic principles to empower
           students.
         features:
-          - Feature one
+          - ''
         image:
           type: ImageBlock
           url: /images/Web.PNG
