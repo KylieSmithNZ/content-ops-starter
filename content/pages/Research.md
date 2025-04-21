@@ -48,16 +48,7 @@ sections:
           type: ImageBlock
           url: /images/coverimage.webp
           altText: Pricing plan 1
-        actions:
-          - type: Link
-            label: Click here to access article
-            altText: ''
-            url: /pdf
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
         colors: bg-neutral-fg-dark
         styles:
           self:
