@@ -17,7 +17,7 @@ sections:
           Practicing Democracy from
           Childhood: Democratic
           Praxis in Te Ao Māori
-        price: ''
+        price: 'Kylie Smith, Ksenija Napan, Raewyn Perkinson, and Roberta Hunter'
         details: ''
         description: >+
 
