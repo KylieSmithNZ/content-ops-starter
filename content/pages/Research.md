@@ -73,10 +73,10 @@ sections:
           Zealand's Secondary Schools
         price: ''
         details: 'Kylie Smith, 2023'
-        description: >+
-          This comprehensive study explores positive impacts of democratic
-          systems enacted within secondary schools on students. Responses to
-          democratic practices within schools (including collective
+        description: >
+          Abstract: This comprehensive study explores positive impacts of
+          democratic systems enacted within secondary schools on students.
+          Responses to democratic practices within schools (including collective
           decision-making, deliberative discussion, diverse ways of being, and
           freedom of movement and expression) are examined and analysed.
           Additionally, the hidden curriculum created by structures and
@@ -122,9 +122,6 @@ sections:
           where student-defined well-being is prioritized and provides a
           forward-thinking approach based on democratic principles to empower
           students.
-
-
-
         features:
           - Feature one
         image:
