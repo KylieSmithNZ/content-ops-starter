@@ -81,7 +81,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Web.PNG
-          altText: Pricing plan 2
+          altText: Web of interactions
         actions:
           - type: Button
             label: Try for free
