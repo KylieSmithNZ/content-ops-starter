@@ -19,9 +19,27 @@ sections:
           Praxis in Te Ao Māori
         price: ''
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >+
+
+          Abstract: Democracy manifests itself in a range of ways and is an
+          imperfect, dynamic struggle for collective decision-making. This
+          article discusses the multifaceted processes of deliberative
+          democratic praxis found in traditional Māori society. Central to
+          decision-making in te ao Māori,
+
+          hui provide formal and informal structures for deliberative democracy,
+          precedent setting, learning, and transformation through consensus
+          making, inclusive debate, and discussion across all levels of society.
+          Rather than coercion and voting, rangatira relied on a complex mix of
+          customary values and accomplished oratory skills to explore issues in
+          family and community meetings and in public assemblies. Decisions made
+          through inclusive deliberative processes practiced in hui established
+          evident reasoning and responsibility for all community members to
+          uphold the reached consensus. This article claims that practicing
+          deliberative democracy as a fundamental way of life, learned through
+          ongoing active and meaningful participation throughout childhood,
+          improves the integrity of democratic decision-making
+
         features:
           - Feature one
           - Feature two
