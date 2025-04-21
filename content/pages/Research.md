@@ -48,16 +48,7 @@ sections:
           type: ImageBlock
           url: /images/coverimage.webp
           altText: Pricing plan 1
-        actions:
-          - type: Link
-            label: Click here to access article
-            altText: ''
-            url: /pdf
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -68,28 +59,66 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Professional
-        price: $99
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+        title: >-
+          Democracy, Freedom, and School: Realiging Power in Aotearoa New
+          Zealand's Secondary Schools
+        price: ''
+        details: 'Kylie Smith, 2023'
+        description: >
+          Abstract: This comprehensive study explores positive impacts of
+          democratic systems enacted within secondary schools on students.
+          Responses to democratic practices within schools (including collective
+          decision-making, deliberative discussion, diverse ways of being, and
+          freedom of movement and expression) are examined and analysed.
+          Additionally, the hidden curriculum created by structures and
+          processes inherent in democratic participation is critically reflected
+          on, including consideration of how democratic processes relate to
+          individual and collective well-being within thschool environment.
+
+
+          The study adopts a qualitative grounded theory research methodology to
+          comprehend the outcomes of learning within democratic settings.
+          Participants, including alumni and staff from two different democratic
+          school environments, share their perspectives through semi-structured
+          one-on-one interviews and question-and-answer emails. Data collection
+          and analysis were conducted concurrently, and the data analysed using
+          constant comparative analysis.
+
+
+          Democratic building blocks, based on a foundation of respect for the
+          student as a whole human, emerged from the data. Organising school
+          structures around democratic ideals, reflective of indigenous models
+          of democracy, and aligned with Lundy’s model of space, voice,
+          influence, and audience aimed at implementing Article 12 of the UNCRC,
+          is seen to cultivate a learning environment where diversity is
+          embraced and respected. Effective communication skills are honed
+          through authentic and meaningful deliberative dialogue, enabling
+          students to value diverse perspectives. Alumni valued the challenge of
+          navigating agency in a safe supportive learning environment and felt
+          empowered to contribute and participate towards a strong collective
+          school community.
+
+
+          Implications from the research underscore the potential of democratic
+          systems to create more equitable educational environments, enhancing
+          well-being by aligning the hidden curriculum with critical and
+          culturally sustainable pedagogies. The study highlights the importance
+          of continual dialogue and reflection and advocates for active
+          integration of democratic principles within schools to facilitate
+          challenges to oppressive structures. It further stresses the need for
+          adults to approach schooling from an epistemology of trust in and
+          support for the student, enabling genuine equitable dialogue and
+          fostering a sense of dignity, significance, and belonging among
+          students. Ultimately, the research offers tangible examples of schools
+          where student-defined well-being is prioritized and provides a
+          forward-thinking approach based on democratic principles to empower
+          students.
+        features: []
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
-          altText: Pricing plan 2
-        actions:
-          - type: Button
-            label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
+          url: /images/Web.PNG
+          altText: Web of interactions and outcomes
+        actions: []
         colors: bg-neutral-fg-dark
         styles:
           self:
