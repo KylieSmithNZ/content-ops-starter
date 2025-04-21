@@ -44,7 +44,6 @@ sections:
           - |-
             Keywords: consensus, deliberative democracy, democratic schooling,
             hui, indigenous democratic processes, Māor
-          - ''
           - Feature three
           - Feature four
         image:
