@@ -122,8 +122,7 @@ sections:
           where student-defined well-being is prioritized and provides a
           forward-thinking approach based on democratic principles to empower
           students.
-        features:
-          - ''
+        features: []
         image:
           type: ImageBlock
           url: /images/Web.PNG
