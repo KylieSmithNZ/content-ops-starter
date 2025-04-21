@@ -71,7 +71,7 @@ sections:
         title: >-
           Democracy, Freedom, and School: Realiging Power in Aotearoa New
           Zealand's Secondary Schools
-        price: $99
+        price: ''
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
