@@ -41,7 +41,9 @@ sections:
           improves the integrity of democratic decision-making
 
         features:
-          - Feature one
+          - |-
+            Keywords: consensus, deliberative democracy, democratic schooling,
+            hui, indigenous democratic processes, Māor
           - Feature two
           - Feature three
           - Feature four
