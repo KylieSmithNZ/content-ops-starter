@@ -50,7 +50,7 @@ sections:
           altText: Pricing plan 1
         actions:
           - type: Link
-            label: See Tutorials
+            label: Click here to access article
             altText: ''
             url: >-
               /https://www.berghahnjournals.com/view/journals/democratic-theory/8/2/dt080202.xml
