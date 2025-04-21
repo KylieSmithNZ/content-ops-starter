@@ -52,8 +52,7 @@ sections:
           - type: Link
             label: Click here to access article
             altText: ''
-            url: >-
-              /https://www.berghahnjournals.com/view/journals/democratic-theory/8/2/dt080202.xml
+            url: /pdf
             showIcon: false
             icon: arrowRight
             iconPosition: right
