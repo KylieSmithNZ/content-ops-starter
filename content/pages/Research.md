@@ -81,7 +81,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Web.PNG
-          altText: Web of interactions
+          altText: Web of interactions and outcomes
         actions:
           - type: Button
             label: Try for free
