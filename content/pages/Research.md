@@ -18,7 +18,7 @@ sections:
           Childhood: Democratic
           Praxis in Te Ao Māori
         price: ''
-        details: ''
+        details: 'Kylie Smith, Ksenija Napan, Raewyn Perkinson, and Roberta Hunter'
         description: >+
 
           Abstract: Democracy manifests itself in a range of ways and is an
