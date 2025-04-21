@@ -13,7 +13,10 @@ sections:
     subtitle: ''
     plans:
       - type: PricingPlan
-        title: Developers
+        title: |-
+          Practicing Democracy from
+          Childhood: Democratic
+          Praxis in Te Ao Māori
         price: Free
         details: No credit card required
         description: >-
